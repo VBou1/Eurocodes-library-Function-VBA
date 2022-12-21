@@ -20,4 +20,4 @@ This library of functions is therefore resolutely user-oriented, using the Euroc
 # Utilisation
 Le dossier est constitué de deux type de fichiers. 
 - Les fichiers se terminant par ".docx" sont des documents word contenant la documentation associée à chaque fonction ainsi que les tests de validation effectués pour contrôler le bon fonctionnement (contre calculs manuels ou à l'aide d'autres logiciels).
-- Les fichiers se terminants par ".xlam" sont des fichiers d'extentions de Excel ils doivent être ajoutés dans le dossier "C:\Users\Nom\AppData\Roaming\Microsoft\AddIns" puis activés dans Excel Onglet "Développeur", sous menu "Compléments", bouton "Compléments Excel". La procédure pour activer ces compléments est rappellée dans la documentation.
+- Les fichiers se terminant par ".xlam" sont des fichiers d'extensions de Excel ils doivent être ajoutés dans le dossier "C:\Users\Nom\AppData\Roaming\Microsoft\AddIns" puis activés dans Excel Onglet "Développeur", sous menu "Compléments", bouton "Compléments Excel". La procédure pour activer ces compléments est rappelée dans la documentation.
