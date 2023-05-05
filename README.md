@@ -1,6 +1,9 @@
 # Eurocodes-library-Function-VBA
 Librarys of Eurocodes functions to integrate them in Excel.
 
+# Contributing
+Feel free to download use and contribute to the project. Feedback is welcome, you cans also tell tour colleagues and friends about the project or just ... use it as it is ! Feel free to get in touch with me if you want to add functions yourself or spreadsheets using the functions already there!
+
 # Français
 La création de de feuilles de macro dédiée aux Eurocodes est issue de la volonté de créer un ensemble de « briques », composantes de base des calculs Eurocodes. Ces briques sont composées des calculs de base qui sont susceptibles d’être utilisés régulièrement dans les calculs et l’utilisation des Eurocodes.
 L’objectif de tout ceci est de permettre de s’affranchir des calculs dit « de base » afin que ceux-ci soient traités une seule fois. La création de feuilles de calculs, d’outils personnels en devient simplifiée et l’ingénieur peut se consacrer à des tâches plus complexes en prenant le temps d’y apporter une valeur ajoutée.
